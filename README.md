@@ -7,5 +7,5 @@
 *   `Focusrite.netfix-mod` — Разблочит домены Focusrite для установки и использования их ПО.
 *   `Steelseries.netfix-mod` — Разблочит домены Steelseries для установки и использования их ПО.
   
-*   `OG Zapret... .netfix-mod` — Это оригинальные списки из [Zapret от Flowseal](https://github.com/Flowseal/zapret-discord-youtube). (Актуальные для 1.9.9c)
+*   `OG Zapret... .netfix-mod` — Это оригинальные списки из [Zapret от Flowseal](https://github.com/Flowseal/zapret-discord-youtube). (Актуальные для 1.10.0)
 *    `NSFW сайты.netfix-mod` — Разблочит домены сайтов для взрослых.
