@@ -6,6 +6,7 @@
 *   `Cloudflare и CDN.netfix-mod` — Разблочит домены Cloudflare и поддомены, используемые для сайтов с картинками/гифками.
 *   `Focusrite.netfix-mod` — Разблочит домены Focusrite для установки и использования их ПО.
 *   `Steelseries.netfix-mod` — Разблочит домены Steelseries для установки и использования их ПО.
+*   `NVIDIA` — Разблочит домены Nvidia, если не получается обновить драйверы.
   
 *   `OG Zapret... .netfix-mod` — Это оригинальные списки из [Zapret от Flowseal](https://github.com/Flowseal/zapret-discord-youtube). (Актуальные для 1.10.0)
 *    `NSFW сайты.netfix-mod` — Разблочит домены сайтов для взрослых.
