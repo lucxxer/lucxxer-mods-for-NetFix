@@ -8,5 +8,5 @@
 *   `Steelseries.netfix-mod` — Разблочит домены Steelseries для установки и использования их ПО.
 *   `NVIDIA` — Разблочит домены Nvidia, если не получается обновить драйверы.
   
-*   `OG Zapret... .netfix-mod` — Это оригинальные списки из [Zapret от Flowseal](https://github.com/Flowseal/zapret-discord-youtube). (Актуальные для 1.10.0)
+*   `OG Zapret... .netfix-mod` — Это оригинальные списки из [Zapret от Flowseal](https://github.com/Flowseal/zapret-discord-youtube). (Актуальные для 1.10.1)
 *    `NSFW сайты.netfix-mod` — Разблочит домены сайтов для взрослых.
